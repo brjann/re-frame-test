@@ -8,10 +8,9 @@
                  [reagent "0.10.0"]
                  [re-frame "1.1.1"]
                  [day8.re-frame/tracing "0.6.0"]
-                 [re-com "2.9.0"]]
+                 [re-com "2.10.1"]]
 
   :plugins [[lein-shadow "0.3.1"]
-            
             [lein-shell "0.5.0"]]
 
   :min-lein-version "2.9.0"
